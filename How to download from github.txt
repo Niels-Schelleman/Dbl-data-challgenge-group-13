@@ -1,0 +1,12 @@
+How to download from github
+
+1: on the left of the screen, just above the list of files, there should be a button displaying: Branch:etc.
+
+2: press this button and select the branch where the desired file is located
+
+3: press the big green button to the far right of the button you pressed in step one
+
+4: click: download ZIP
+
+5: the zip file will contain all files within that branch including the file you want. 
+For that reason please put files in their corresponding branches and don't just dump 'em willy nilly
