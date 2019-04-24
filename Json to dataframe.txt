@@ -1,0 +1,31 @@
+#necessairy libraries
+import pandas
+import json
+
+#class object
+class jsonRead:
+        #sets the file location as the self.name
+    def __init__(self , filename):
+        self.name = filename
+        
+        #function which reads the json lines and puts them into a dataframe
+    def JSONtoDf(self):
+        #list to dump json files into
+        data = []
+        
+        # takes the self.name opens it and assigns it to the variable f
+        with open(self.name) as f:
+            #line is one line of json
+            for line in f:
+                #tries to append the json line to the list, if it fails it prints the json that caused the exception
+                try:
+                    data.append(json.loads(line))
+                except:
+                    print("fault in line:"+line)
+        #turns the list into a dataframe and returns it
+        son = pandas.DataFrame(data)
+        return son
+    
+    
+#the call to the class object between the first brackets you should put the file location
+jsonRead('json/airlines-1464602228450.json').JSONtoDf()
