@@ -12,16 +12,18 @@ class jsonRead:
     def JSONtoDf(self):
         #list to dump json files into
         data = []
-        
+        #initialises linecounter for later usage
+        linecount = 0
         # takes the self.name opens it and assigns it to the variable f
         with open(self.name) as f:
             #line is one line of json
             for line in f:
+                linecount +=1
                 #tries to append the json line to the list, if it fails it prints the json that caused the exception
                 try:
                     data.append(json.loads(line))
                 except:
-                    print("fault in line:"+line)
+                    print("fault in line:"+str(linecount))
         #turns the list into a dataframe and returns it
         son = pandas.DataFrame(data)
         return son
