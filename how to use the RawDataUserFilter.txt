@@ -1,0 +1,14 @@
+Using the RawDataUserFilter
+
+1: make sure you are able to call the jsonRead object, this is needed to execute the code
+
+2:the object uses the following structure
+
+RawDataUserFilter([1],[2]).getKlmBawStd() for the standard edition (features more print statements to indicate where it is and what it is doing)
+RawDataUserFilter([1],[2]).getKlmBawBB()  for the bare-bones edition (only features print statements when errors occur or data is removed)
+
+[1]: location of list of filenames*
+[2]: amount of json files to be processed or:'all'**
+
+*see "how to get filenames.txt" for more info on a list of filenames
+** this is the string 'all'

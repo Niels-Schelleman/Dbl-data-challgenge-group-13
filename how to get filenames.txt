@@ -1,0 +1,13 @@
+How to get a list of filenames
+*note this might not work with non-tue laptops, in that case contact me(Niels)
+
+
+step 1: get all your json files unpacked and put into a single folder.
+
+step 2: hold shift and right-click on the folder containing your jsons.
+
+step 3: in the menu select: "Open PowerShell window here"
+
+step 4: a blue window should appear, in this window paste the code below and press ctrl+enter
+
+cmd /r dir /d > filenames.txt
