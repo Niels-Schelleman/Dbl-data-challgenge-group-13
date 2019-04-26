@@ -1,0 +1,11 @@
+How to use Frameconcat.
+
+After using any function within the RawDataUserFilter
+You will want to turn the list of frames into a single frame
+for this you use frameconcat
+
+just put your data from the RawDataUserFilter into a variable,
+
+then use
+
+FrameConcat(your variable).concatinator()
