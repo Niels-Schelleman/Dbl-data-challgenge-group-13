@@ -1,0 +1,47 @@
+Niels needs to do less
+bram feels bad because no work
+We're doing well at the moment
+
+Niels:
+First two weeks jank, because I did a lot and there was no real collaboration
+This week it is better because there where more (small) tasks
+Maybe make more smaller tasks instead of one or two big ones so evryone can get their hours
+
+Emmie:
+Scaling
+Sql database to use?
+look into sql/mongoDB.
+Process is going well, communication is good
+
+Daan:
+Presentation was good
+Keep working on extra points
+Divide tasks better
+
+Dylan:
+Did good job
+Make it easier for non programmers to do things and understand the code
+
+Marwa:
+Work till now very good
+Be more specific tasks
+Find biggest task and divide them into smaller task to up efficiency
+Make a good schedule
+Change method of assesing data
+Decide the method fast
+
+Wouter:
+Happy about presentation
+Niels did to much
+Last weeks things got better go on with this
+Look into other options line sql or mongoDB
+Keep looking into bonus stuff
+
+Bram:
+bram wants to do more.
+thinks other things are going well.
+work together to understand structure.
+Not fishing in the dark, more communication
+Create more detailed work plans, for larger tasks.
+
+

@@ -1,0 +1,67 @@
+SQL database
+Mongo database
+
+Need to try and use them.
+Put everything into a database.
+
+SQL is the preffered choice
+
+Look into objectives for video assignment
+
+
+To Do
+Put everything into database
+Marwa & Wouter.
+
+SQlite database
+Bram& Niels&Emmie
+Emmie json to sql pyton
+Make two databases one for tweet(only important data)
+Bram create sql table from dataframe
+Niels create two dataframes, tweet and user bound by userID
+
+Heatmap Plot for next presentation (think Tim presentation)
+
+Sentiment analysis:
+1: Google Cloud language API
+2: azuretext (not recomm)
+3: Vader NLTK
+Google seems to be the best one for analysis.
+Languages?		Maybe other analysis for other languages.
+language -sentiment correlation
+
+Daan&Dylan Looks into sentiment analysis
+Google Cloud API
+check for languages
+check for how good it is
+
+
+
+Expand to more airlines
+
+
+
+Video == Marwa
+VideoShoot Bring it up with tutor next meating
+bring up videoshoot with tutor
+Put video into agenda for tuesday.
+
+Peer review look and fill in the required spaces on the peer review form. Step 1,2,3
+Hand in the scum form
+Deadline scrum report Sunday 12/05/2019 21:00.
+
+
+
+Emmie fills in the peer reviews
+
+Film the presentation on thu 23/05/2019 in the afternoon
+
+
+Start visualising the old visualisations but on all the data.
+Sunday 19th of may, first three points in rubric finished.
+Tuesday 21 of may, all visualisations finished
+Thursday 23 of may, powerpoints finished
+
+Tuesday Room location pz0.51
+	11:30 - 15:30
+Scrum training 14-16
